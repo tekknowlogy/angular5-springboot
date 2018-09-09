@@ -54,3 +54,14 @@ yarn-error.log
 
 # rollup-test output
 /modules/rollup-test/dist/
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
